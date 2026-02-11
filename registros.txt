@@ -1,0 +1,20 @@
+1.Programa que escreve 'Olá Mundo JS'.
+[]Importações do projeto
+ -Dependencias
+
+[] Entrada de dados
+  -Terminal
+  -Ler arquivo
+
+
+[]Saída de dados
+[]Variaveis
+ - var /let/const
+
+ 2.Ler dois números e apresentar a soma
+
+Operações: + - / *
+
+//Texto(String)
+//Números(Inteiros ou floats)
+//Booleans (True ou false)
