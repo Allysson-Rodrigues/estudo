@@ -1,6 +1,6 @@
 //Importações do projeto
-var input = require('fs').readFileSync('entrada.txt', 'utf8');
-var lines = input.split('\n');
+var input = require("fs").readFileSync("entrada.txt", "utf8");
+var lines = input.split("\n");
 
 //Entrada de dados
 
@@ -16,3 +16,4 @@ let soma = v1 + v2;
 //console.log('Você digitou o valor:', valor1);
 //console.log(`Você digitou o valor: ${valor1}`);
 console.log(`Resultado:x = ${soma}`);
+

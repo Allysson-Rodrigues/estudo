@@ -1,10 +1,10 @@
 //Importações do projeto
-let teclado = require('prompt-sync')();
+let teclado = require("prompt-sync")();
 
 //Entrada de dados
 
-let valor1 = teclado('Digite o primeiro valor:');
-let valor2 = teclado('Digite o segundo valor:');
+let valor1 = teclado("Digite o primeiro valor:");
+let valor2 = teclado("Digite o segundo valor:");
 
 //Processamento de dados
 let v1 = parseFloat(valor1);
